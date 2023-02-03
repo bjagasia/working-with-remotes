@@ -1,3 +1,2 @@
-# Head First Git - Chapter 5
+# HF Git
 
-This is my first attempt at collaborating using Git and Github.
